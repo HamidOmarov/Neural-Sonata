@@ -8,7 +8,7 @@
 
 ---
 
-### Demo GIF![Neural Sonata](https://github.com/user-attachments/assets/8f99975a-b5ae-4dab-8ac4-cf7778174ae9)
+### ![Neural Sonata](https://github.com/user-attachments/assets/8f99975a-b5ae-4dab-8ac4-cf7778174ae9)
 
 
 
