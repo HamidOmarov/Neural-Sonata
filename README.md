@@ -9,7 +9,8 @@
 ---
 
 <img src="https://i.imgur.com/gKBCKqC.png" alt="Neural Sonata Demo Screenshot">
-*(You can replace this with a screenshot of your own project)*
+[Neural Sonata](https://github.com/user-attachments/assets/1349a212-6792-4392-b076-93fbefd613a1)
+
 
 ## 🎵 About The Project
 
