@@ -8,8 +8,8 @@
 
 ---
 
-<img src="https://i.imgur.com/gKBCKqC.png" alt="Neural Sonata Demo Screenshot">
-[Neural Sonata](https://github.com/user-attachments/assets/1349a212-6792-4392-b076-93fbefd613a1)
+### Demo GIF![Neural Sonata](https://github.com/user-attachments/assets/8f99975a-b5ae-4dab-8ac4-cf7778174ae9)
+
 
 
 ## 🎵 About The Project
